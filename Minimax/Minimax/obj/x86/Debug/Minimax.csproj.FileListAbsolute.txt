@@ -1,0 +1,5 @@
+C:\Users\jpchiodini\Documents\Visual Studio 2010\Projects\Chess\Minimax\Minimax\bin\Debug\Minimax.exe
+C:\Users\jpchiodini\Documents\Visual Studio 2010\Projects\Chess\Minimax\Minimax\bin\Debug\Minimax.pdb
+C:\Users\jpchiodini\Documents\Visual Studio 2010\Projects\Chess\Minimax\Minimax\obj\x86\Debug\Minimax.exe
+C:\Users\jpchiodini\Documents\Visual Studio 2010\Projects\Chess\Minimax\Minimax\obj\x86\Debug\Minimax.pdb
+C:\Users\jpchiodini\Documents\Visual Studio 2010\Projects\Chess\Minimax\Minimax\obj\x86\Debug\Minimax.csprojResolveAssemblyReference.cache

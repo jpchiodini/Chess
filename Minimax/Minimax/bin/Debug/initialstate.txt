@@ -1,0 +1,8 @@
+r,k,b,q,ki,b,k,r
+p,p,p,p,p,p,p,p
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , ,
+p,p,p,p,p,p,p,p
+r,k,b,q,ki,b,k,r
